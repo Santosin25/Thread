@@ -10,3 +10,9 @@ Time End [2:29:00] = user.action & create-threed/page & PostThread.tsx
 Time End [2:50:00] = PostThread.tsx
 Time End [3:23:00] = /thread/[id]/page.tsx
 Time End [4:20:00] = /search/page.tsx && user.action.ts
+
+# MayweatherTosin
+
+# uploadthing.com [2:20:02]
+
+<!-- git token= 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 -->
